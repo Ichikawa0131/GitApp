@@ -6,7 +6,7 @@
         <title>profileInput</title>
     </head>
     <body>
-        <form action="GitInputServlet" method="POST">
+        <form action="gitinputservlet" method="POST">
             <label for="sei">姓:</label>
             <input type="text" name="sei" id="sei">
             <label for="mei">名:</label>

@@ -9,11 +9,11 @@
         <url-pattern>/gitinput</url-pattern>
     </servlet-mapping>
     <servlet>
-        <servlet-name>GitInputServlet</servlet-name>
+        <servlet-name>gitinputservlet</servlet-name>
         <servlet-class>GitInputServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>GitInputServlet</servlet-name>
+        <servlet-name>gitinputservlet</servlet-name>
         <url-pattern>/gitinputservlet</url-pattern>
     </servlet-mapping>
 </web-app>
